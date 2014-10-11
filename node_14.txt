@@ -1,0 +1,148 @@
+Test writeComputation Message received from Node(Sender): 1
+Physical Clock value now: 1412685382331ms (6:12:11)
+Node joins tree with this request
+From Active to Idle
+Sending ACK to parent and detaching from tree
+Ack message sent
+Computation Message received from Node(Sender): 1
+Physical Clock value now: 1412685386448ms (7:20:48)
+Node will send ACK in reponse to: 1
+From Idle to Active upon receipt of message
+From Active to Idle
+Sending ACK to parent and detaching from tree
+Ack message sent
+Computation Message received from Node(Sender): 3
+Physical Clock value now: 1412685398464ms (10:41:04)
+Computation Message sent to Node(Recepient): 1
+Physical Clock value now: 1412685400471ms (11:14:31)
+Acknowledgements to be received: 1
+Computation Message sent to Node(Recepient): 5
+Physical Clock value now: 1412685400476
+Acknowledgements to be received: 2
+ACK Message received from Node(Sender): 5
+Physical Clock value now: 1412685402483ms (11:48:03)
+ACKs yet to be received:1
+Computation Message sent to Node(Recepient): 2
+Physical Clock value now: 1412685402513
+Acknowledgements to be received: 2
+Computation Message received from Node(Sender): 6
+Physical Clock value now: 1412685404603ms (12:23:23)
+Computation Message received from Node(Sender): 5
+Physical Clock value now: 1412685406527ms (12:55:27)
+Node will send ACK in reponse to: 5
+Ack message sent
+Ack message sent
+Computation Message received from Node(Sender): 2
+Physical Clock value now: 1412685408601ms (13:30:01)
+Ack message sent
+Computation Message received from Node(Sender): 2
+Physical Clock value now: 1412685412423ms (14:33:43)
+ACK Message received from Node(Sender): 2
+Physical Clock value now: 1412685412469ms (14:34:29)
+ACKs yet to be received:1
+Computation Message sent to Node(Recepient): 4
+Physical Clock value now: 1412685412530
+Acknowledgements to be received: 2
+Ack message sent
+Computation Message received from Node(Sender): 2
+Physical Clock value now: 1412685414427ms (15:07:07)
+Computation Message sent to Node(Recepient): 2
+Physical Clock value now: 1412685414532
+Acknowledgements to be received: 3
+ACK Message received from Node(Sender): 2
+Physical Clock value now: 1412685414533ms (15:08:53)
+ACKs yet to be received:2
+ACK Message received from Node(Sender): 4
+Physical Clock value now: 1412685414542ms (15:09:02)
+ACKs yet to be received:1
+Computation Message received from Node(Sender): 7
+Physical Clock value now: 1412685416430ms (15:40:30)
+Ack message sent
+Ack message sent
+Computation Message received from Node(Sender): 6
+Physical Clock value now: 1412685418701ms (16:18:21)
+Node will send ACK in reponse to: 6
+Computation Message received from Node(Sender): 3
+Physical Clock value now: 1412685420477ms (16:47:57)
+Node will send ACK in reponse to: 3
+Ack message sent
+Ack message sent
+Computation Message sent to Node(Recepient): 3
+Physical Clock value now: 1412685426563ms (18:29:23)
+Acknowledgements to be received: 3
+Computation Message sent to Node(Recepient): 2
+Physical Clock value now: 1412685426563
+Acknowledgements to be received: 3
+ACK Message received from Node(Sender): 2
+Physical Clock value now: 1412685428557ms (19:02:37)
+ACKs yet to be received:2
+ACK Message received from Node(Sender): 3
+Physical Clock value now: 1412685428566ms (19:02:46)
+ACKs yet to be received:1
+Computation Message received from Node(Sender): 3
+Physical Clock value now: 1412685434597ms (20:43:17)
+Node will send ACK in reponse to: 3
+Ack message sent
+Computation Message sent to Node(Recepient): 6
+Physical Clock value now: 1412685440623ms (22:23:43)
+Acknowledgements to be received: 2
+Computation Message sent to Node(Recepient): 6
+Physical Clock value now: 1412685440630ms (22:23:50)
+Acknowledgements to be received: 3
+Computation Message sent to Node(Recepient): 3
+Physical Clock value now: 1412685440631
+Acknowledgements to be received: 4
+ACK Message received from Node(Sender): 2
+Physical Clock value now: 1412685442624ms (22:57:04)
+ACKs yet to be received:3
+ACK Message received from Node(Sender): 6
+Physical Clock value now: 1412685442626ms (22:57:06)
+ACKs yet to be received:2
+ACK Message received from Node(Sender): 6
+Physical Clock value now: 1412685442632ms (22:57:12)
+ACKs yet to be received:1
+Computation Message sent to Node(Recepient): 1
+Physical Clock value now: 1412685442633
+Acknowledgements to be received: 2
+ACK Message received from Node(Sender): 3
+Physical Clock value now: 1412685442636ms (22:57:16)
+ACKs yet to be received:1
+Computation Message sent to Node(Recepient): 2
+Physical Clock value now: 1412685444635
+Acknowledgements to be received: 2
+ACK Message received from Node(Sender): 1
+Physical Clock value now: 1412685444656ms (23:30:56)
+ACKs yet to be received:1
+Computation Message sent to Node(Recepient): 3
+Physical Clock value now: 1412685448634
+Acknowledgements to be received: 2
+Computation Message sent to Node(Recepient): 2
+Physical Clock value now: 1412685450639
+Acknowledgements to be received: 3
+ACK Message received from Node(Sender): 2
+Physical Clock value now: 1412685450641ms (1:10:41)
+ACKs yet to be received:2
+ACK Message received from Node(Sender): 3
+Physical Clock value now: 1412685450642ms (1:10:42)
+ACKs yet to be received:1
+Computation Message sent to Node(Recepient): 2
+Physical Clock value now: 1412685452651ms (1:44:11)
+Acknowledgements to be received: 3
+Computation Message sent to Node(Recepient): 1
+Physical Clock value now: 1412685452651
+Acknowledgements to be received: 3
+Computation Message sent to Node(Recepient): 6
+Physical Clock value now: 1412685454653
+Acknowledgements to be received: 4
+ACK Message received from Node(Sender): 2
+Physical Clock value now: 1412685454684ms (2:18:04)
+ACKs yet to be received:3
+ACK Message received from Node(Sender): 1
+Physical Clock value now: 1412685454736ms (2:18:56)
+ACKs yet to be received:2
+ACK Message received from Node(Sender): 2
+Physical Clock value now: 1412685456684ms (2:51:24)
+ACKs yet to be received:1
+Physical Clock value now: 1412685456755ms (2:52:35)
+ACK yet to received: 0
+Computation Terminated

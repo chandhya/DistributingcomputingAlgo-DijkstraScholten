@@ -1,0 +1,96 @@
+Test writeComputation Message received from Node(Sender): 6
+Physical Clock value now: 1412685378606ms (5:10:06)
+Node joins tree with this request
+Computation Message sent to Node(Recepient): 2
+Physical Clock value now: 1412685378661
+Acknowledgements to be received: 1
+Computation Message received from Node(Sender): 3
+Physical Clock value now: 1412685380648ms (5:44:08)
+From Active to Idle
+Sending ACK to parent and detaching from tree
+Computation Message sent to Node(Recepient): 2
+Physical Clock value now: 1412685380666ms (5:44:26)
+Acknowledgements to be received: 2
+Ack message sent
+Ack message sent
+ACK Message received from Node(Sender): 2
+Physical Clock value now: 1412685382812ms (6:20:12)
+ACKs yet to be received:1
+ACK Message received from Node(Sender): 2
+Physical Clock value now: 1412685386077ms (7:14:37)
+ACKs yet to be received:0
+Computation Message received from Node(Sender): 6
+Physical Clock value now: 1412685386501ms (7:21:41)
+Node will send ACK in reponse to: 6
+From Idle to Active upon receipt of message
+Computation Message sent to Node(Recepient): 1
+Physical Clock value now: 1412685388503
+Acknowledgements to be received: 1
+Computation Message sent to Node(Recepient): 5
+Physical Clock value now: 1412685390506
+Acknowledgements to be received: 2
+ACK Message received from Node(Sender): 1
+Physical Clock value now: 1412685390509ms (8:28:29)
+ACKs yet to be received:1
+Computation Message received from Node(Sender): 5
+Physical Clock value now: 1412685392476ms (9:01:16)
+Computation Message sent to Node(Recepient): 1
+Physical Clock value now: 1412685392511
+Acknowledgements to be received: 2
+Ack message sent
+Computation Message received from Node(Sender): 8
+Physical Clock value now: 1412685394479ms (9:34:39)
+Ack message sent
+Computation Message received from Node(Sender): 8
+Physical Clock value now: 1412685400476ms (11:14:36)
+Node will send ACK in reponse to: 8
+Ack message sent
+Computation Message received from Node(Sender): 6
+Physical Clock value now: 1412685402548ms (11:49:08)
+Node will send ACK in reponse to: 6
+Computation Message received from Node(Sender): 5
+Physical Clock value now: 1412685404516ms (12:21:56)
+Ack message sent
+Ack message sent
+Computation Message sent to Node(Recepient): 8
+Physical Clock value now: 1412685410420ms (14:00:20)
+Acknowledgements to be received: 3
+Computation Message sent to Node(Recepient): 8
+Physical Clock value now: 1412685410421ms (14:00:21)
+Acknowledgements to be received: 4
+Computation Message sent to Node(Recepient): 7
+Physical Clock value now: 1412685410424
+Acknowledgements to be received: 5
+Computation Message sent to Node(Recepient): 2
+Physical Clock value now: 1412685410426ms (14:00:26)
+Acknowledgements to be received: 6
+ACK Message received from Node(Sender): 1
+Physical Clock value now: 1412685412427ms (14:33:47)
+ACKs yet to be received:5
+ACK Message received from Node(Sender): 8
+Physical Clock value now: 1412685412446ms (14:34:06)
+ACKs yet to be received:4
+ACK Message received from Node(Sender): 8
+Physical Clock value now: 1412685412446ms (14:34:06)
+ACKs yet to be received:3
+Computation Message received from Node(Sender): 4
+Physical Clock value now: 1412685412528ms (14:35:28)
+Computation Message sent to Node(Recepient): 6
+Physical Clock value now: 1412685412616ms (14:36:56)
+Acknowledgements to be received: 4
+From Active to Idle
+Sending ACK to parent and detaching from tree
+Computation Message sent to Node(Recepient): 1
+Physical Clock value now: 1412685412617ms (14:36:57)
+Acknowledgements to be received: 5
+Ack message sent
+ACK Message received from Node(Sender): 6
+Physical Clock value now: 1412685414623ms (15:10:23)
+ACKs yet to be received:4
+Ack message sent
+ACK Message received from Node(Sender): 1
+Physical Clock value now: 1412685414627ms (15:10:27)
+ACKs yet to be received:3
+Physical Clock value now: 1412685456654ms (2:50:54)
+ACK yet to received: 0
+Computation Terminated
